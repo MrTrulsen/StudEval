@@ -1,6 +1,8 @@
 # StudEval
 Git for project in datamod
 
+In this branch we are trying to work on the project from scratch.
+
 
 ## Setup(Windows):
 install python 3.7+
